@@ -1,0 +1,13 @@
+steps:
+  - name: Check out code
+    uses: actions/checkout@v3
+
+  - name: Set up Go
+    uses: actions/setup-go@v4
+    with:
+      go-version: '1.21'
+
+  - name: Install dependencies
+    run: |
+      go mod tidy  # Generate go.sum if missing
+      go install ./...  # Replace deprecated go get with go install
