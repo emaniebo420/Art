@@ -71,7 +71,7 @@ const UIElements: React.FC = () => {
             }}
           >
             <Instagram className="mr-2" />
-            <h1 className="text-xl font-bold">MJKDraw</h1>
+            <h1 className="text-xl font-bold">boyongmaniebo</h1>
           </a>
 
           <Controls
