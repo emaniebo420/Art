@@ -63,7 +63,7 @@ const UIElements: React.FC = () => {
         <>
           <a
             className="absolute top-0 left-0 p-4 text-white flex items-center hover:scale-105 transition-all duration-300 z-40"
-            href="https://www.instagram.com/mjkdraw/"
+            href="https://www.instagram.com/boyong.maniebo/"
             target="_blank"
             rel="noopener noreferrer"
             style={{
