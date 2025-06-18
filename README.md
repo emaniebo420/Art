@@ -4,7 +4,6 @@
 
 ## Live
 
-https://virtual-museum.tompastor.fr/
 
 ## Description
 
